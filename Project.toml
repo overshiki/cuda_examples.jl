@@ -1,0 +1,7 @@
+name = "cuda_examples"
+uuid = "6a76e106-045c-4cd6-8d2e-99265beb5da2"
+authors = ["overshiki <le.niu@hotmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
